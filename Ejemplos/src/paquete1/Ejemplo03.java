@@ -21,10 +21,13 @@ public class Ejemplo03 {
         int[] arreglo1 = new int[5];
         
         // arreglo de tipo entero
+        /*En la primera linea de condigo se declara un arreglo de tipoo entero 
+        y en la linea de codigo posterior se ingresa el # de elemntos del arreglo*/
         int[] arreglo2;
         arreglo2 = new int[5];
         
         // arreglo de tipo entero
+        /* entre llaves se les da valor al arregle de 5 elementos */
         int[] arreglo3 = {5, 10, 15, 20, 25}; // sin new
         
         // arreglo de doubles - 3 elementos
