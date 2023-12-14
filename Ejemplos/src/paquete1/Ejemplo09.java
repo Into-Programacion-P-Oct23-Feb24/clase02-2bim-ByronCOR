@@ -22,7 +22,7 @@ public class Ejemplo09 {
         // Se declara un arreglo de tipo double, llamado promedios
         double[] promedios =  {8.1, 9, 9.5, 10, 9.9};
         String[] estudiantes = {"Luis", "Ana", "Mónica", "José", "Juan"};
-        
+        //length da el numero de elemnto que tiene el arreglo
         String mensajeFinal = ""; // variable que acumula un reporte final
         // Se hace uso del ciclo repetitivo for para recorrer los arreglos
         // y presentar los valore de las posiciones
